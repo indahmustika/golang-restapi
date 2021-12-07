@@ -12,6 +12,6 @@
   - <code>go build</code>
   - <code>rest-crud.exe</code>
 - Test using postman (post, put, delete type use x-www-form-urlencoded)
-#### Source 
+#### References 
  - <url>https://kiddyxyz.medium.com/tutorial-golang-rest-api-mysql-part-1-45cd9f4e75a6</url>
  - <url>https://kiddyxyz.medium.com/tutorial-golang-rest-api-mysql-part-2-6a9c732a42ca</url> 
